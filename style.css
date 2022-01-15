@@ -1,0 +1,68 @@
+body{
+  background-image:url(https://oir.mobi/uploads/posts/2021-03/1616538776_30-p-fon-anime-noch-37.jpg) ;
+  background-repeat:no-repeat ;
+  background-size:cover ;
+}
+
+h1{
+  weight: 500px ;
+  color:black ;
+  text-align:right ;
+}
+
+.container{
+  
+display: grid;
+
+grid-template-columns: 1fr 1fr 1fr;
+  color:white ;
+
+}
+
+.box{
+  
+    width:150px ;
+    height:150px ;
+    font-size: 50px;
+    margin: 100px;
+}
+
+.boom {
+ text-align:center ;
+  width: 100%;
+  font-size: 2.5em;
+  color:#00A7E1 ;
+  background-color: #004D9B;
+  padding: 1.4em;
+   margin-right: 15px; 
+ display: inline-block;
+  
+  
+}
+
+img{
+  width:190px ;
+  height:165px ;
+    font-size: 50px;
+  
+  transition: .2s linear;
+}
+
+img:hover{
+   width:250px ;
+  height:200px ;
+  
+  
+}
+
+h6{
+  width:50px ;
+  height:50px ;
+  font-size:25px ;
+  color:black ;
+}
+
+.b00m{
+ 
+}
+
